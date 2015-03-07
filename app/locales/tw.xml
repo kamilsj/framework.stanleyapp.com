@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<enter>
+        <title>輔仁大學神學院</title>
+        <enter>進去</enter>
+		<email>電子郵件</email>
+        <passwd>密碼</passwd>
+	</enter>
+	<posts>
+		<upload>上載</upload>
+	</posts>
+	<main>
+	    <profile>帳號</profile>
+        <exit>登出</exit>
+        <start>開始</start>
+        <add>加</add>
+		<addFiles>加你的檔案相片</addFiles>
+		<all>全部</all>
+        <files>檔案</files>
+		
+	</main>
+	<profile>
+		<chpwd>改變密碼</chpwd>
+		<opwd>舊的密碼</opwd>
+		<npwd>新的密碼</npwd>
+		<n2pwd>確定</n2pwd>
+		
+	</profile>
+	
+	<date>
+		<sec>秒鐘</sec>
+		<min>分鐘</min>
+		<hou>小時</hou>
+		<day>天</day>
+		<wee>星期</wee>
+		<mon>月</mon>
+		<yea>年</yea>
+		<bef>之前</bef>
+		<aft>之後</aft>
+	</date>			
+			
+</root>

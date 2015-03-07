@@ -1,0 +1,34 @@
+<?php
+//basic configuration
+define('url', 'CHANGE_ME');
+define('bgMain', 'CHANGE_ME');
+define('title', 'CHANGE_ME');
+//database
+define('dbhost', 'CHANGE_ME');
+define('dblog', 'CHANGE_ME');
+define('dbpass', 'CHANGE_ME');
+define('dbname', 'CHANGE_ME');
+
+//cloud services
+define('cluser', 'CHANGE_ME');
+define('clkey', 'CHANGE_ME');
+define('clcon', 'CHANGE_ME');
+
+//dropbox
+define('dbchooser', 'CHANGE_ME');
+
+//google accounts
+define('gog_analytics_num', 'CHANGE_ME');
+
+//SOCIAL plugins -> if you want to connect with ecternal social network you have to turn it on
+// 0 change 1 to turn on
+
+define('social', '0');
+
+//facebook
+
+define('fbid', 'CHANGE_ME');
+define('fbsec', 'CHANGE_ME');
+//tweeter
+define('twkey', 'CHANGE_ME');
+define('twsec', 'CHANGE_ME');

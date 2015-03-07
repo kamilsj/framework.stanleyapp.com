@@ -1,0 +1,41 @@
+.uploadifive-button {
+    background-color: #4c86c0;
+    color: white;
+    cursor: pointer;
+    border: 1px solid #000;
+}
+.uploadifive-button:hover {
+    background-color: #e4eff5;
+    color: #000000;
+    cursor: pointer;
+    border: 1px solid #000;
+}
+.uploadifive-queue-item {
+	background-color: #F5F5F5;
+	border-bottom: 1px dotted #D5D5D5;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	font: 12px Arial, Helvetica, Sans-serif;
+	margin-top: 3px;
+	padding: 15px;
+}
+.uploadifive-queue-item .close {
+	background: url('https://c730088.ssl.cf2.rackcdn.com/gfx/x.gif') 0 0 no-repeat;
+	display: block;
+	float: right;
+	height: 16px;
+	text-indent: -9999px;
+	width: 16px;
+}
+.uploadifive-queue-item .progress {
+	border: 1px solid #D0D0D0;
+	height: 3px;
+	margin-top: 5px;
+	width: 100%;
+}
+.uploadifive-queue-item .progress-bar {
+	background-color:  #363636;
+	height: 3px;
+	width: 0;
+}

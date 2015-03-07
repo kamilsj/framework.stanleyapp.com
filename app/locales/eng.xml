@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<enter>
+        <title></title>
+        <enter>Enter!</enter>
+		<email>email</email>
+	</enter>
+	
+	<main>
+	
+	</main>
+	
+	<cat>
+		<gd></gd>
+	</cat>
+</root>
