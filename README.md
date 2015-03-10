@@ -2,4 +2,4 @@ PHP social framework
 
 
 
-http://stanley.com
+http://stanleyapp.com
